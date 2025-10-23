@@ -1,3 +1,11 @@
+/*Integrantes:
+Hugo Catalan
+Matias Carro
+Ignacio Carné
+Gabriel Carbajal
+*/
+
+
 DROP DATABASE IF EXISTS gestion_usuarios_final;
 
 CREATE DATABASE IF NOT EXISTS gestion_usuarios_final

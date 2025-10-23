@@ -1,3 +1,9 @@
+Integrantes:
+Hugo Catalan
+Matias Carro
+Ignacio Carné
+Gabriel Carbajal
+
 ORDEN DE LOS SCRIPTS:
 
 01_esquema - Crea las tablas
