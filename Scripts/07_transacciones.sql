@@ -1,3 +1,4 @@
+USE gestion_usuarios_final; 
 /*
 =======================================
 Etapa 5 – Concurrencia y Transacciones

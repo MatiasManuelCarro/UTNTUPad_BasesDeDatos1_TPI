@@ -1,3 +1,5 @@
+USE gestion_usuarios_final;	
+
 -- elimina los indices si existian anteriormente
 DROP INDEX ix_usuario_activo ON usuario;
 DROP INDEX ix_usuario_estado ON usuario;
