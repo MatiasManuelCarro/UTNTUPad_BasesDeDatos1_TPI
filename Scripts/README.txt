@@ -4,6 +4,9 @@ Matias Carro
 Ignacio Carné
 Gabriel Carbajal
 
+Link al video:
+https://www.youtube.com/watch?v=A9338Lvp0NA
+
 ORDEN DE LOS SCRIPTS:
 
 01_esquema - Crea las tablas
